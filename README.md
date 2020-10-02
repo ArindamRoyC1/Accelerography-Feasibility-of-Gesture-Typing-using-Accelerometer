@@ -1,0 +1,2 @@
+# ArindamRoyC1-Accelerography-Feasibility-of-Gesture-Typing-using-Accelerometer
+We have constructed gestures, that are easy to remember, not cumbersome to reproduce and easily identifiable, for the entire English alphabet and provide an algorithm to identify the gestures, even when they are constructed continuously. We tackle the problem statistically, taking into account the problem of randomness in the hand movement gestures of users, and achieve an average accuracy of 97.33% with the entire English alphabet. 
