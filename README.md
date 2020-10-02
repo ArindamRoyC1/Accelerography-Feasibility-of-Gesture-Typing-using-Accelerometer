@@ -4,7 +4,7 @@ We have constructed gestures, that are easy to remember, not cumbersome to repro
 The Repository has four files:
   * _TrainData_ : Consists of .rds files for all the letters. They are used as the training set.
   * _TestExamples_ : Contains csv files with the accelarometer data representing different words typed continuously.
-  * _LodaingCodes.R_ : Contains all the functions and loads the Training Data
+  * _LoadingCodes.R_ : Contains all the functions and loads the Training Data
   * _Excecute.R_ : Open it to try out the test examples given. Run the four lines of R code in this file to Execute the entire procedure for a particular test data. 
   
  
